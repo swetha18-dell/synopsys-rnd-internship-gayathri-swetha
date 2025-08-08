@@ -27,19 +27,19 @@ VLSI Technology
 
 
 ## Relevant Projects
-# 1. Asynchronous FIFO for Cross-Clock Domain Transfer
+### 1. Asynchronous FIFO for Cross-Clock Domain Transfer
 16×8 FIFO in Verilog with modular memory, Gray code pointers, and D flip-flop synchronizers for reliable cross-domain transfer. Verified with Verilog testbench.
 
-# 2. Multiply-Accumulate (MAC) Module
+### 2. Multiply-Accumulate (MAC) Module
 BlueSpec System Verilog design supporting int8 and bf16 MAC operations without + or *. Verified using Cocotb with IEEE 754 rounding compliance.
 
-# 3. 8×8 Unsigned Multiplier – Dadda Tree
+### 3. 8×8 Unsigned Multiplier – Dadda Tree
 22nm CMOS implementation of Dadda tree multiplier with AND/NAND, Half/Full Adders, DRC/LVS clean layout, and optimized critical path.
 
-# 4. In-Memory Compute Engine
+### 4. In-Memory Compute Engine
 784×700 9T 1C SRAM array with integrated 8-bit ADC and 3-bit DAC for efficient in-memory MAC operations.
 
-# 5. Digital Design & Performance Analysis
+### 5. Digital Design & Performance Analysis
 Palindrome Checker in assembly with hazard reduction; ChampSim cache performance analysis (DRRIP vs LRU).
 
 
