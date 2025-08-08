@@ -18,7 +18,7 @@ VLSI Technology
 ## Skills
 | Category       | Skills |
 |----------------|--------|
-| Programming    | C, C++, Python, Tcl |
+| Programming    | C, C++, Python |
 | HDL & Design   | Verilog, Bluespec System Verilog, Assembly |
 | Tools          | Synopsys DC,Electric VLSI(open source), Vivado, ModelSim |
 | Physical Design| Layout, DRC/LVS, RC Extraction |
