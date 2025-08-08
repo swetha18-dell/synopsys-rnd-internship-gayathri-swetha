@@ -20,7 +20,6 @@ VLSI Technology
 |----------------|--------|
 | Programming    | C, C++, Python, Tcl |
 | HDL & Design   | Verilog, Bluespec System Verilog, Assembly |
-| Verification   | SystemVerilog TBs, Cocotb |
 | Tools          | Synopsys DC,Electric VLSI(open source), Vivado, ModelSim |
 | Physical Design| Layout, DRC/LVS, RC Extraction |
 | OS             | Linux (Ubuntu) |
