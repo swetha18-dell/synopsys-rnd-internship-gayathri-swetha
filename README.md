@@ -1,9 +1,9 @@
 # synopsys-rnd-internship-gayathri-swetha
 
-I am a final-year B.Tech student in Electrical Engineering at IIT Madras (Graduating 2025) with a strong foundation in **Digital Design, Computer Architecture, and Hardware Description Languages**.  
+I am a recent undergarduate B.Tech student in Electrical Engineering at IIT Madras (Graduated in 2025) with a strong foundation in **Digital Design, Computer Architecture, and Hardware Description Languages**.  
 I have hands-on experience designing, implementing, and verifying digital systems at both the RTL and physical levels, including high-performance multipliers, asynchronous FIFOs, and pipelined MAC units.  
 
-I am passionate about solving complex hardware problems, optimizing for performance and efficiency, and contributing to innovative R&D projects.  
+I enjoy taking on challenging hardware problems and figuring out how to make designs faster, more efficient, and more reliable. This internship would give me the opportunity to learn from experienced engineers while contributing my skills in digital design and verification to meaningful projects.I’m committed to delivering quality results while learning and improving every day.
 
 ---
 ## Course Done
