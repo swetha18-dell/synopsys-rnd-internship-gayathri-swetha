@@ -47,6 +47,6 @@ Palindrome Checker in assembly with hazard reduction; ChampSim cache performance
 
 
 ## Contact
-Email id : gayathriswethachintam@gmail.com
-LinkedIn : www.linkedin.com/in/gayathri-swetha-123667245
-Contact number : 8247039693
+### Email id : gayathriswethachintam@gmail.com
+### LinkedIn : www.linkedin.com/in/gayathri-swetha-123667245
+### Contact number : 8247039693
